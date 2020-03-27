@@ -1,6 +1,6 @@
 from tkinter import *
 master = Tk()
-thislist = ["perfume", "faces lipstick", "plecktrum", "jewellery box", "sanitizer", "lakme moisturizer", "addidas hoodie", "cover story jeans", "coffee mug", "vans sneakers"]
+thislist = ["studs", "booochi lipstick", "plecktrum", "jewellery box", "sanitizer", "lakme moisturizer", "addidas hoodie", "cover story jeans", "coffee mug", "vans sneakers"]
 prices= [100, 150 ,60, 120, 40, 135, 1500, 900, 1100, 1000]
 result=[0,0,0,0,0,0,0,0,0,0]
 options=[IntVar(),IntVar(),IntVar(),IntVar(),IntVar(),IntVar(),IntVar(),IntVar(),IntVar(),IntVar()]
